@@ -17,6 +17,7 @@ styling:
 		overlay: 
 include_file: card demorgan the progenitor
 include_file: card not
+include_file: card vadim the conquerer
 keyword:
 	keyword: Flip
 	match: 
