@@ -20,7 +20,7 @@ include_file: card not
 include_file: card vadim the conquerer
 keyword:
 	keyword: Flip
-	match: 
+	match: Flip
 	reminder: Target spell grants health instead of damage and damage instead of healing. All counters are multiplyed by -1.
 	rules: 
 	mode: custom
