@@ -1,0 +1,21 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2020-04-25
+stylesheet: m15
+stylesheet_version: 2018-02-09
+set_info:
+	symbol: 
+	masterpiece_symbol: 
+styling:
+	magic-m15:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+include_file: card demorgan the progenitor
+version_control:
+	type: none
+apprentice_code: 

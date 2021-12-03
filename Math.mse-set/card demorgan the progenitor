@@ -1,0 +1,26 @@
+﻿mse_version: 2.1.2
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2020-09-04
+	has_styling: false
+	notes: 
+	time_created: 2021-12-03 13:30:43
+	time_modified: 2021-12-03 13:52:15
+	extra_data:
+		magic-m15:
+			stamp: blue
+	card_color: blue
+	name: DeMorgan, the Progenitor
+	casting_cost: 2UU
+	image: image1
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: mythic rare
+	rule_text: <sym>TXU</sym>: Counter target spell, where X is the converted mana cost of that spell.
+	flavor_text: <i-flavor></i>“You will obey my laws, or die trying.”<i></i-flavor>
+	power: 1
+	toughness: 4
+	card_code_text: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
