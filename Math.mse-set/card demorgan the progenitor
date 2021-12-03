@@ -7,8 +7,7 @@ card:
 	time_created: 2021-12-03 13:30:43
 	time_modified: 2021-12-03 13:52:15
 	extra_data:
-		magic-m15:
-			stamp: blue
+		magic-m15: stamp: blue
 	card_color: blue
 	name: DeMorgan, the Progenitor
 	casting_cost: 2UU
@@ -21,6 +20,9 @@ card:
 	power: 1
 	toughness: 4
 	card_code_text: 
+	copyright: 
 	image_2: 
+	copyright_2: 
+	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 

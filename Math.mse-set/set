@@ -16,6 +16,13 @@ styling:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 include_file: card demorgan the progenitor
+include_file: card not
+keyword:
+	keyword: Flip
+	match: 
+	reminder: Target spell grants health instead of damage and damage instead of healing. All counters are multiplyed by -1.
+	rules: 
+	mode: custom
 version_control:
 	type: none
 apprentice_code: 
